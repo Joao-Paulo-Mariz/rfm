@@ -1,6 +1,9 @@
 # <font color='blue'>Análise RFM com K-MEANS</font>
 
-### [Notebook aqui](https://nbviewer.org/github/Joao-Paulo-Mariz/rfm/blob/master/rfm.ipynb)
+### [Notebook aqui](https://nbviewer.org/github/Joao-Paulo-Mariz/rfm/blob/master/rfm.ipynb)     
+
+![rfm](images/rfm-analysis-blog-graphic-01.webp "https://hivemarketingcloud.com/articles/what-is-rfm-analysis")
+
 ## <font color='blue'>Visão geral sobre o projeto:</font>
 
 Esse projeto tem o propósito de desenvolver e compartilhar meus conhecimentos sobre clusterização e análise RFM. O projeto foi dividido em 3 partes principais: a primeira busca analisar de forma inicial as vendas e assim entender melhor a base de dados; na segunda etapa preparei os dados para passar pela clusterização; e por fim na última parte fiz a segmentação de clientes por RFM usando o algoritmo K-means.
